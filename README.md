@@ -17,8 +17,7 @@
 
 - 📫 How to reach me **muthengipatrick73@gmail.com**
 
-- 📄 Know about my experiences [Sent Request](Sent Request)
-
+- 📄 Know about my experiences - Check my LinkedIn profile: https://www.linkedin.com/in/patrick-muthengi-9a8b89112/
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
