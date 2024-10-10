@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Patrick Muthengi</h1>
 <h3 align="left">  A Cloud Engineer from Nairobi, Kenya.</h3>
 
-- 🌱 I’m currently learning **CloudFormation, Terraform**
+- 🌱 I’m currently preparing for AWS Solutions Architect and learning **Terraform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pat464/](https://github.com/pat464/)
 
