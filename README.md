@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Patrick Muthengi</h1>
-<h3 align="left">A passionate DevOps Engineer from Nairobi, Kenya.</h3>
+<h3 align="left">Cloud Engineer from Nairobi, Kenya.</h3>
 
 - 🌱 I’m currently learning **CloudFormation, Terraform**
 
