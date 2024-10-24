@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muthengipatrick73](https://medium.com/@muthengipatrick73)
 
-- 💬 Ask me about **Networks, Cloud Security & Automation**
+- 💬 Ask me about **Infrastructure, Cloud Security & Automation**
 
 - 📫 How to reach me **muthengipatrick73@gmail.com**
 
