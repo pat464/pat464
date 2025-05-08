@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Patrick Muthengi</h1>
-<h3 align="left">  A Cloud Engineer based in Nairobi, Kenya.</h3>
+<h3 align="left">  A Cloud Infrastructure Engineer based in Nairobi, Kenya.</h3>
 
 - 🌱 I’m currently learning **FastAPI**
 
