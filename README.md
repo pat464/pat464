@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Patrick Muthengi</h1>
 <h3 align="left">  A Cloud Infrastructure Engineer based in Nairobi, Kenya.</h3>
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Containers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pat464/](https://github.com/pat464/)
 
 - 📝 I regularly write articles on [https://medium.com/@muthengipatrick73](https://medium.com/@muthengipatrick73)
 
-- 💬 Ask me about **Infrastructure, Cloud Security & Automation**
+- 💬 Ask me about **Cloud Networking & Automation**
 
 - 📫 How to reach me **muthengipatrick73@gmail.com**
 
