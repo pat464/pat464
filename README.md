@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Patrick Muthengi</h1>
-<h3 align="left">  A Cloud Infrastructure Engineer based in Nairobi, Kenya.</h3>
+<h3 align="left">  A Network Engineer based in Nairobi, Kenya.</h3>
 
 - 🌱 I’m currently learning **Containers**
 
@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@muthengipatrick73](https://medium.com/@muthengipatrick73)
 
-- 💬 Ask me about **Cloud Networking & Automation**
+- 💬 Ask me about **Networking, Cloud and Automation**
 
 - 📫 How to reach me **muthengipatrick73@gmail.com**
 
