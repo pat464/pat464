@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Patrick Muthengi</h1>
 <h3 align="left">  A Network Engineer based in Nairobi, Kenya.</h3>
 
-- 🌱 I’m currently learning **Container Networking**
+- 🌱 I’m currently learning **preparing for AWS Advanced Networking Specialty certification**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pat464/](https://github.com/pat464/)
 
