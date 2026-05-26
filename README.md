@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Patrick Muthengi</h1>
 <h3 align="left">  A Network Engineer based in Nairobi, Kenya.</h3>
 
-- 🌱 I’m currently preparing for **AWS Advanced Networking Specialty certification**
+- 🌱 I’m currently preparing for **Fortinet FortiOS Administrator (NSE4)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pat464/](https://github.com/pat464/)
 
 - 📝 I regularly write articles on [https://medium.com/@muthengipatrick73](https://medium.com/@muthengipatrick73)
 
-- 💬 Ask me about **Networking, Security, Cloud and Automation**
+- 💬 Ask me about **Networking Security, Cloud and Automation**
 
 - 📫 How to reach me **muthengipatrick73@gmail.com**
 
