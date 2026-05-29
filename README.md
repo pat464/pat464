@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Patrick Muthengi</h1>
+<h1 align="left">Hi, I'm Patrick Muthengi</h1>
 <h3 align="left">  A Network Engineer based in Nairobi, Kenya.</h3>
 
 - 🌱 I’m currently preparing for **Fortinet FortiOS Administrator (NSE4)**
