@@ -1,21 +1,14 @@
-<h1 align="left">Hi, I'm Patrick Muthengi 👋</h1>
-<h3 align="left">Network Engineer | Cisco & Fortinet Security | AWS Cloud Networking</h3>
-
-<p align="left">
-Nairobi-based Network Engineer specializing in enterprise routing & switching, network security, 
-and cloud networking on AWS. I design, secure, and automate networks across on-prem and cloud environments.
+<h1 align="left">Hi, I'm Patrick Muthengi</h1>
+<p>A Network Engineer, based in Nairobi, Kenya specializing in enterprise routing, switching and network security. I design, secure, and automate networks across on-prem and cloud environments.
 </p>
-
-- 🔧 **Core Expertise:** Cisco (Routing & Switching, ASA), Fortinet (FortiGate, FortiOS), AWS Cloud Networking
-- ☁️ Experienced with AWS networking services — VPC, Transit Gateway, Direct Connect, VPN
-- 🔐 Skilled in enterprise routing/switching (BGP, OSPF, MPLS, SD-WAN) and firewall administration (FortiGate, Cisco ASA, Sophos)
-- 🎓 **Certifications:** AWS Certified Advanced Networking – Specialty · AWS Certified Solutions Architect · Fortinet FCA
-- 📚 Currently pursuing **CCNP (ENCOR + ENARSI)**
-- 👨‍💻 All of my projects are available at [github.com/pat464](https://github.com/pat464/)
-- 📝 I write on networking & cloud topics at [medium.com/@muthengipatrick73](https://medium.com/@muthengipatrick73)
-- 💬 Ask me about **Networking, Network Security, and Cloud Architecture**
-- 📫 Reach me at **muthengipatrick73@gmail.com**
-- 📄 More on my experience: [LinkedIn](https://www.linkedin.com/in/patrick-muthengi)
+	**Core Expertise: ** (BGP, OSPF, MPLS, SD-WAN) and firewall administration (FortiGate, Cisco ASA), AWS Cloud Networking (Core-Services – IAM, VPC, Transit Gateway, Direct Connect, AWS Site-to-Site VPN)
+	**Certifications:** AWS Certified Advanced Networking – Specialty · AWS Certified Solutions Architect · Fortinet FCA
+	Currently pursuing **CCNP (ENCOR + SD-WAN)**
+	👨‍💻 All of my projects are available at [github.com/pat464](https://github.com/pat464/)
+	📝 I write on networking & cloud topics at [medium.com/@muthengipatrick73](https://medium.com/@muthengipatrick73)
+	💬 Ask me about **Networking, Network Security and Cloud Architecture**
+	📫 Reach me at **muthengipatrick73@gmail.com**
+	📄 More on my experience: [LinkedIn](https://www.linkedin.com/in/patrick-muthengi)
 
 <h3 align="left">Vendors, Protocols & Tools:</h3>
 
@@ -23,7 +16,7 @@ and cloud networking on AWS. I design, secure, and automate networks across on-p
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco"/>
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="fortinet"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="aws"/>
-  <img src="https://img.shields.io/badge/BGP%2FOSPF%2FMPLS-333333?style=for-the-badge&logo=cisco&logoColor=white" alt="protocols"/>
+  <img src="https://img.shields.io/badge/STP%/VLANs%22OSPF%2F/EIGRP2BGP%2FMPLS-333333?style=for-the-badge&logo=cisco&logoColor=white" alt="protocols"/>
 </p>
 
 <p align="left">
