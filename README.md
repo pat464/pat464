@@ -25,7 +25,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco"/>
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="fortinet"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
+  <img src="https://img.shields.io/badge/AWS-#ED7100?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws"/>
 </p>
 
 <p align="left">
