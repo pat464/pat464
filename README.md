@@ -2,7 +2,7 @@
 <p>A Network Engineer, based in Nairobi, Kenya specializing in enterprise routing, switching and network security. I design, secure and automate networks across on-prem and public cloud environments.
 </p>
 
-	Core Expertise: (BGP, OSPF, SD-WAN, STP, VLANs, DNS), Firewall Administration (FortiGate, Cisco ASA), AWS Cloud Networking (Core-Services – IAM, VPC, Transit Gateway, Direct Connect, AWS Site-to-Site VPN)
+	Core Expertise: (BGP, OSPF, SD-WAN, STP, VLANs, DNS), Firewall Administration (FortiGate, Cisco ASA), AWS Cloud Networking (Core Services – IAM, VPC, Direct Connect, Transit Gateway, AWS Site-to-Site VPN)
 
 	Certifications: AWS Certified Advanced Networking – Specialty · AWS Certified Solutions Architect · Fortinet FCA
 
