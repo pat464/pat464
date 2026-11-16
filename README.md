@@ -1,12 +1,12 @@
 <h1 align="left">Hi, I'm Patrick Muthengi</h1>
-<p>A Network Engineer, based in Nairobi, Kenya specializing in enterprise routing, switching and network security. I design, secure and automate networks across on-prem and public cloud environments.
+<p>A Network Engineer based in Nairobi, Kenya, specializing in hybrid enterprise connectivity between private and public cloud environments.
 </p>
 
- Core Expertise: (BGP, OSPF, SD-WAN, STP, VLANs, DNS), Firewall Administration (FortiGate, Cisco ASA), AWS Cloud Networking (Core Services – IAM, VPC, Direct Connect, Transit Gateway, AWS Site-to-Site VPN)
+ Core Expertise: (BGP, OSPF, STP, VLANs, DNS), Firewall Administration (FortiGate, Cisco ASA), AWS Cloud Networking (Core Services – IAM, VPC, Direct Connect, Transit Gateway, AWS Site-to-Site VPN)
 
 	Certifications: Fortinet FCA · AWS Certified Advanced Networking – Specialty · AWS Certified Solutions Architect - Professional · AWS Certified Solutions Architect - Associate
 
-	Currently pursuing CCNP (ENCOR + SD-WAN)
+	Currently pursuing CCNP ENCOR
 
 	All of my projects are available at [github.com/pat464](https://github.com/pat464/)
 
